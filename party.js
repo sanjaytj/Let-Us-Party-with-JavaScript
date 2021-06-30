@@ -35,3 +35,14 @@ Creative Commons Attribution 3.0 Unported License
 https://creativecommons.org/licenses/by/3.0/deed.en_US
 
 */
+
+/*
+
+Change Log:
+
+version 01:
+
+Party Theme wih change in colors and text : working
+Music: Not Working 
+
+*/
